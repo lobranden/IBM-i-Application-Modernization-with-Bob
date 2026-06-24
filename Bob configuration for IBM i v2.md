@@ -6,26 +6,26 @@
 
 3.  Download or clone this github repo:
 <https://github.ibm.com/AmericasTopTeam/bob-rpg-ibm-i?tab=readme-ov-file>
-![](media/Picture4.png)
+![](pics/Picture4.png)
 
 4.  Extract files to your local drive
 
 5. Start "IBM Bob"
 
 6. Select "Open Folder" to open the folder where you extracted the files.
-![](media/Picture5.png)
+![](pics/Picture5.png)
 
 
 **Steps shown below are optional.**
 
 7.  Install \"IBM i Development Pack\" extension from the VS Code Marketplace
-![](media/Picture1.png)
+![](pics/Picture1.png)
 
 8.  Establish the connection to your IBM i this is a standard connection to your IBM i.
 
 9.  You can click \"No\" to skip this warning message.
-![](media/Picture2.png)
+![](pics/Picture2.png)
 
 10.  Configure Bob for IBM i access
-![](media/Picture3.png)
+![](pics/Picture3.png)
 
