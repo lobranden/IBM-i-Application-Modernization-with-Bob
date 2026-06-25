@@ -169,10 +169,14 @@ You've successfully completed this lab when:
 ---
 
 ## (Optional) Upload and Rebuild the application
-- Upload updated @SAMCO/QRPGLESRC/ART200-Work_with_article.PGM.SQLRPGLE file to IBM i
-- [](./pics/Picture10.png)
-- [](./pics/Picture11.png)
-- [](./pics/Picture12.png)
+- Upload updated SAMCO/QRPGLESRC/ART200-Work_with_article.PGM.SQLRPGLE file to IBM i
+- Login to your IBM i environment
+- Right click to QRPGLESRC folder and "Upload" from the menu
+![](pics/picture10.png)
+- Select "Files"
+![](pics/picture11.png)
+- Select updated ART200-Work_with_article.PGM.SQLRPGLE file on your local drive and click OK
+![](pics/picture12.png)
 - [how to build and testing SAMCO on IBM i](./README.md#Building-the-Application)
 
 ---
