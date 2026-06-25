@@ -16,6 +16,9 @@ Learn how to use IBM Bob to analyze legacy RPG code and convert it from Fixed fo
 
 ---
 
+## (Optional) See this link on [how to build and testing SAMCO on IBM i](./README.md#Building-the-Application)
+
+---
 ## Use Case: Convert Subfile Load Logic
 
 We'll convert the `s01lod` (Load Subfile) subroutine from Fixed format to Free format.
