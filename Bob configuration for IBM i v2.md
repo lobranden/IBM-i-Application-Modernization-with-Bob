@@ -5,7 +5,7 @@
 2.  Launch Bob IDE and sign in with your IBM ID --- if you don\'t have an account, create an account.
 
 3.  Download or clone this github repo:
-<[https://github.ibm.com/AmericasTopTeam/bob-rpg-ibm-i?tab=readme-ov-file](https://github.com/lobranden/IBM-i-Application-Modernization-with-Bob/tree/main)>
+<[https://github.com/lobranden/IBM-i-Application-Modernization-with-Bob/tree/main](https://github.com/lobranden/IBM-i-Application-Modernization-with-Bob/tree/main)>
 ![](pics/Picture4.png)
 
 4.  Extract files to your local drive
