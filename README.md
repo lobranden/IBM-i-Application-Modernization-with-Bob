@@ -337,7 +337,7 @@ system "CRTLIB LIB(SAMCO) TEXT('SAMCO Application')"
 ```bash
 # In Bob terminal / shell on IBM i
 cd /home/YOURUSER
-git clone https://github.com/bmarolleau/IBM-i-Application-Modernization-with-Bob
+git clone https://github.com/lobranden/IBM-i-Application-Modernization-with-Bob
 cd IBM-i-Application-Modernization-with-Bob/SAMCO
 ```
 
